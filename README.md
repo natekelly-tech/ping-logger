@@ -11,3 +11,7 @@ A simple command-line tool that checks if a list of hosts are reachable and logs
 - Python 3.x
 
 ## Output
+
+## Notes
+
+Tested on Windows. Hosts list is configurable in ping_logger.py.
